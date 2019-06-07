@@ -1,7 +1,7 @@
 /* global console, alert, confirm  */
 
 /* hello */
-console.log('hello');
+console.log('hello, again!');
 
 const contact = document.querySelector('.contact');
 const backToTop = document.querySelector('.back-to-top');
