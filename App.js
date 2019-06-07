@@ -1,4 +1,6 @@
 /* global console, alert, confirm  */
+console.log('hey again.');
+
 const contact = document.querySelector('.contact');
 const backToTop = document.querySelector('.back-to-top');
 const nav = document.querySelector('nav');
